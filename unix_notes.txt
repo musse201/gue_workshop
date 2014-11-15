@@ -1,0 +1,14 @@
+    1  cd
+    2  ls
+    3  mkdir gue_workshop
+    4  ls
+    5  cd ~
+    6  cd gue_workshop/
+    7  git config --global user.name "Mohamed Musse"
+    8  git config --global user.email "musse_m@yahoo.com"
+    9  git init
+   10  ls
+   11  git status
+   12  history 
+   13  history
+   14  history > unix_notes.txt
